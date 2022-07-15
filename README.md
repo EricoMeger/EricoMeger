@@ -1,5 +1,4 @@
 <h1 align="center">Opa 👋, me chamo Érico Meger</h1>
-<h3 align="center">Robótica por dor e Linux por obrigação</h3>
 
 - 🌱 Atualmente estou aprendendo **Python, Redes neurais e Visão computacional**
 
