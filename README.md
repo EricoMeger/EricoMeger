@@ -1,4 +1,4 @@
-### Hi there, I'm Erico Meger 👋
+### Hi there, I'm Érico Meger 👋
 
 - I'm a Computer Science Student
 - My interests are: Robotics, Computer Vision, Web Development, Linux and Data Analysis.
