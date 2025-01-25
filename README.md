@@ -1,7 +1,7 @@
 ### Hi there, I'm Érico Meger 👋
 
 - I'm a Computer Science Student
-- My interests are: Robotics, Computer Vision, Web Development, Linux, Data Analysis and Graphs.
+- My interests are: Robotics, Computer Vision, Web Development, Linux, Data Science and Graphs.
 
 Feel free to check out my repositories and get in touch if you'd like to collaborate on a project.
  
