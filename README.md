@@ -14,7 +14,7 @@ Feel free to check out my repositories and get in touch if you'd like to collabo
 
 <p align="left">
 <img width="47%" src="https://github-readme-stats.vercel.app/api?username=EricoMeger&theme=dark&show_icons=true&hide_border=true&count_private=true"/>
-<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=EricoMeger&theme=dark&hide_border=true"/>
+<img width="50%" src="https://streak-stats.demolab.com?user=EricoMeger&theme=highcontrast&hide_border=true" alt="GitHub Streak" /></a>
 </p>
 
 <h2>💻 My Tech Stack:</h2>
